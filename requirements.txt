@@ -1,0 +1,8 @@
+streamlit
+pandas
+os
+sqlalchemy
+langchain_community
+langchain_groq
+dotenv
+tempfile
