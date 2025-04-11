@@ -3,3 +3,4 @@ pandas
 langchain_community
 langchain
 sentence-transformers
+faiss-cpu
